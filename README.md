@@ -1,16 +1,18 @@
-## Hi there 👋
+# Meer Ushter
 
-<!--
-**Ushter/Ushter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare integration engineer and solution architect with experience building Lua and SQL workflows, troubleshooting production systems, and designing operational monitoring. Currently studying cybersecurity through Georgia Tech's online master's program.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Focus | Status |
+| --- | --- | --- |
+| [Iguana Stats Collector](https://github.com/Ushter/iguana-stats-collector) | API metrics collection and SQLite aggregation | Recovered and refactored; runtime validation pending |
+| [Database-driven X12 Validator](https://github.com/Ushter/x12-database-validator) | Segment ordering, groups, identifiers, and repeats | Historical prototype; dependencies incomplete |
+| [Iguana X Log API Example](https://github.com/Ushter/iguanax-log-api-example) | Session authentication, error logs, and component metadata | Refactored API example |
+| [HL7 Diagnosis Validator](https://github.com/Ushter/hl7-diagnosis-validator) | DG1 parsing and SQLite reference lookups | Refactored workflow |
+
+## Tools and interests
+
+Lua · SQL · Python · JavaScript · HL7 v2 · X12 · JSON/XML · REST APIs · SQLite · Git · AWS · Linux · Windows
+
+My work spans healthcare interoperability, integration reliability, monitoring, and security. These repositories document recovered projects with their setup requirements and limitations. Original patient messages, credentials, and client runtime data are excluded.
