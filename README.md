@@ -1,6 +1,6 @@
 # Meer Ushter
 
-Healthcare integration engineer and solution architect with experience building Lua and SQL workflows, troubleshooting production systems, and designing operational monitoring. Currently studying cybersecurity through Georgia Tech's online master's program.
+Healthcare integration engineer and solution architect with experience building Lua and SQL workflows, troubleshooting production systems, and designing operational monitoring.
 
 ## Selected projects
 
@@ -17,8 +17,6 @@ Healthcare integration engineer and solution architect with experience building 
 
 - **Git and Source Control** — Iguana User Conference 2023, presented by Meer Ushter.
 - **Iguana X API Automation and Operational Visibility** — co-authored with John Qi.
-
-Sanitized PDF editions cover Git deployment workflows, operational alerts, and API automation.
 
 ## Tools and interests
 
