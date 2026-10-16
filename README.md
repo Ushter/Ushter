@@ -11,6 +11,15 @@ Healthcare integration engineer and solution architect with experience building 
 | [Iguana X Log API Example](https://github.com/Ushter/iguanax-log-api-example) | Session authentication, error logs, and component metadata | Refactored API example |
 | [HL7 Diagnosis Validator](https://github.com/Ushter/hl7-diagnosis-validator) | DG1 parsing and SQLite reference lookups | Refactored workflow |
 
+## Presentations
+
+[Technical presentations](https://github.com/Ushter/technical-presentations)
+
+- **Git and Source Control** — Iguana User Conference 2023, presented by Meer Ushter.
+- **Iguana X API Automation and Operational Visibility** — co-authored with John Qi.
+
+Sanitized PDF editions cover Git deployment workflows, operational alerts, and API automation.
+
 ## Tools and interests
 
 Lua · SQL · Python · JavaScript · HL7 v2 · X12 · JSON/XML · REST APIs · SQLite · Git · AWS · Linux · Windows
