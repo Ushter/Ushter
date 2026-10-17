@@ -53,8 +53,3 @@ The tools I reach for—and the problems I like using them to solve.
 | 🔍 Troubleshooting & monitoring | Log analysis · DataDog · Wireshark · tcpdump · Production incident response |
 | 🤝 Building & sharing | Git / GitHub · Integration design · Technical documentation · Workshops & client training |
 
-### What I'm learning next 🔐
-
-I'm pursuing Georgia Tech's OMS Cybersecurity, with a focus on network and software security. I enjoy connecting that learning to the systems I already work with: understanding how they fail, how to investigate, and how to make them more resilient.
-
-Outside the tools themselves, I care about clear explanations, useful monitoring, and small automations that save someone a lot of repetitive work.
