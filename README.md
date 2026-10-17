@@ -38,7 +38,7 @@ I like turning what I've learned into something other people can use.
 - **Git and Source Control** — presented at the Iguana User Conference 2023.
 - **Iguana X API Automation and Operational Visibility** — co-authored with John Qi.
 
-[Browse the presentations →](https://github.com/Ushter/technical-presentations)
+[![Browse Presentations](assets/presentations.svg)](https://github.com/Ushter/technical-presentations)
 
 ## Toolbox & skills 🧰
 
