@@ -21,13 +21,13 @@ A little trip back to my PHP and MySQL days. These browser demos let you click a
 
 A social network for sharing updates and finding people. Try posting something, browse My Posts, or explore the profile page.
 
-**[Try the demo →](https://ushter.github.io/SocialMedia/)** · [Explore the original code](https://github.com/Ushter/SocialMedia)
+[![Try a Demo](assets/try-demo.svg)](https://ushter.github.io/SocialMedia/) &nbsp; [![View Source](assets/view-source.svg)](https://github.com/Ushter/SocialMedia)
 
 ### Company Portal
 
 People, projects, and company records in one place. Assign a project, update a sample profile, or take a look at the manager tools.
 
-**[Try the demo →](https://ushter.github.io/CompanyPortal/)** · [Explore the original code](https://github.com/Ushter/CompanyPortal)
+[![Try a Demo](assets/try-demo.svg)](https://ushter.github.io/CompanyPortal/) &nbsp; [![View Source](assets/view-source.svg)](https://github.com/Ushter/CompanyPortal)
 
 *The demos use fictional data and keep changes in your browser. The repositories also include the original PHP applications.*
 
@@ -40,8 +40,21 @@ I like turning what I've learned into something other people can use.
 
 [Browse the presentations →](https://github.com/Ushter/technical-presentations)
 
-## My toolbox 🧰
+## Toolbox & skills 🧰
 
-Lua · SQL · Python · JavaScript · PHP · HL7 v2 · X12 · JSON/XML · REST APIs · SQLite · Git · AWS · Linux · Windows
+The tools I reach for—and the problems I like using them to solve.
 
-I'm especially interested in healthcare interoperability, useful monitoring, and the small automations that save someone a lot of repetitive work.
+| Area | Tools & skills |
+| --- | --- |
+| 🏥 Healthcare integration | HL7 v2 · X12 · Iguana 6 / Iguana X · Message mapping & validation · FHIR fundamentals |
+| 💻 Code & automation | Lua · SQL · Python · JavaScript · PHP · Bash · PowerShell · HTML/CSS |
+| 🔌 APIs & data | REST APIs · JSON · XML · OAuth 2.0 · SQLite · SQL Server · MySQL · ODBC |
+| ☁️ Systems & reliability | AWS EC2 · Load balancing · EFS · Linux · Windows Server · High availability & disaster recovery |
+| 🔍 Troubleshooting & monitoring | Log analysis · DataDog · Wireshark · tcpdump · Production incident response |
+| 🤝 Building & sharing | Git / GitHub · Integration design · Technical documentation · Workshops & client training |
+
+### What I'm learning next 🔐
+
+I'm pursuing Georgia Tech's OMS Cybersecurity, with a focus on network and software security. I enjoy connecting that learning to the systems I already work with: understanding how they fail, how to investigate, and how to make them more resilient.
+
+Outside the tools themselves, I care about clear explanations, useful monitoring, and small automations that save someone a lot of repetitive work.
