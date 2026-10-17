@@ -4,6 +4,8 @@ I build integrations, untangle data, and try to make complicated systems a littl
 
 Most of my work sits where healthcare, APIs, Lua, and SQL meet. I enjoy figuring out why a message went sideways—and building tools that make the next mystery easier to solve.
 
+[![Connect on LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/meer-ushter)
+
 ## Things I've built 🔧
 
 | Project | What it does |
